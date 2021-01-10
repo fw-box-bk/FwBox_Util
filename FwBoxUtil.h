@@ -32,4 +32,6 @@ namespace FwBox {
   
 };
 
+using namespace FwBox;
+
 #endif // __FWBOXUTIL__

@@ -37,4 +37,6 @@ namespace FwBox {
 
 };
 
+using namespace FwBox;
+
 #endif // __FWBOXLITEJSON__
